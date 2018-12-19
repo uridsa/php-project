@@ -13,5 +13,6 @@
    echo "Fecha de ultima modificación.. 18-12-2018 a las 03:05 hrs..";
    echo "<br>";
    echo "Fecha de ultima modificación.. 18-12-2018 a las 22:18 hrs..";
+   echo  "<br> ".date("Y-m-d H:i:s")." Fecha de ultima modificación..";
 
 ?>
